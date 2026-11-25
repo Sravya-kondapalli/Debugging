@@ -1,0 +1,17 @@
+:root {
+  --primary: #e6679d;
+  --primary-dark: #c94b82;
+  --accent-soft: #fde2ee;
+  --surface: #ffffff;
+  --border: #f7d6e4;
+  --muted: #8a6a78;
+  --text: #3d1f2d;
+}
+
+body {
+  color: var(--text);
+  background-color: #fff5f8;
+  /* Subtle background pattern */
+  background-image: url("../assets/bg-pattern.svg");
+  background-repeat: repeat;
+}
